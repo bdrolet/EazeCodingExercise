@@ -1,0 +1,8 @@
+﻿2017-09-27 01:00:52.455 INFO  DefaultFactory Logging to 'c:\users\bdrol\documents\visual studio 2015\Projects\EazeCodingExercise\EazeCodingExercise\App_Data\' with level Info
+2017-09-27 01:02:19.238 INFO  DefaultFactory Logging to 'c:\users\bdrol\documents\visual studio 2015\Projects\EazeCodingExercise\EazeCodingExercise\App_Data\' with level Info
+2017-09-27 01:02:19.325 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '9/25/2017'
+
+2017-09-27 01:02:19.390 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'DESKTOP-SLF72J2\bdrol' to group 'Performance Monitor Users' because the user is already in group.
+2017-09-27 01:02:19.449 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-09-27 01:02:19.456 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-09-27 01:02:19.464 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.

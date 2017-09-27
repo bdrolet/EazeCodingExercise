@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazeCodingExercise.Web.API", "EazeCodingExercise\EazeCodingExercise.Web.API.csproj", "{2D90CD4E-60A2-421C-8843-881A2EA5D305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazeCodingExercise.Endpoint", "EazeCodingExercise.Endpoint\EazeCodingExercise.Endpoint.csproj", "{723E5DA7-6C46-4ABE-907B-47C16989071E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazeCodingExercise.Contracts", "EazeCodingExercise.Contracts\EazeCodingExercise.Contracts.csproj", "{23886DB8-70E5-4981-9C2B-03DDEF34F9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazeCodingExercise.Repo", "EazeCodingExercise.Repo\EazeCodingExercise.Repo.csproj", "{6228F972-9FD2-42AE-82C5-737DD78FB040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazeCodingExercise.Tests", "EazeCodingExercise.Tests\EazeCodingExercise.Tests.csproj", "{FFBF5050-8065-4BC7-970E-C66E7CD3E33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D90CD4E-60A2-421C-8843-881A2EA5D305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D90CD4E-60A2-421C-8843-881A2EA5D305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D90CD4E-60A2-421C-8843-881A2EA5D305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D90CD4E-60A2-421C-8843-881A2EA5D305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723E5DA7-6C46-4ABE-907B-47C16989071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723E5DA7-6C46-4ABE-907B-47C16989071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723E5DA7-6C46-4ABE-907B-47C16989071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723E5DA7-6C46-4ABE-907B-47C16989071E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23886DB8-70E5-4981-9C2B-03DDEF34F9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23886DB8-70E5-4981-9C2B-03DDEF34F9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23886DB8-70E5-4981-9C2B-03DDEF34F9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23886DB8-70E5-4981-9C2B-03DDEF34F9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6228F972-9FD2-42AE-82C5-737DD78FB040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6228F972-9FD2-42AE-82C5-737DD78FB040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6228F972-9FD2-42AE-82C5-737DD78FB040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6228F972-9FD2-42AE-82C5-737DD78FB040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBF5050-8065-4BC7-970E-C66E7CD3E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBF5050-8065-4BC7-970E-C66E7CD3E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBF5050-8065-4BC7-970E-C66E7CD3E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBF5050-8065-4BC7-970E-C66E7CD3E33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
